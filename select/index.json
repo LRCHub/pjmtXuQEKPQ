@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Vigilante",
+  "base_artist": "澤野 弘之",
+  "createdAt": "2025-12-13T10:31:38.440029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vigilante Shit",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Vigilante_Shit_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vigilante Man",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/02_Vigilante_Man_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vigilante (feat. Morgan Phalen)",
+      "artist": "Kavinsky feat. Morgan Phalen",
+      "has_synced": true,
+      "path": "select/03_Vigilante_(feat._Morgan_Phalen)_Kavinsky_feat._Morgan_Phalen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vigilante",
+      "artist": "Kavinsky",
+      "has_synced": true,
+      "path": "select/04_Vigilante_Kavinsky.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vigilante",
+      "artist": "Malice",
+      "has_synced": false,
+      "path": "select/05_Vigilante_Malice.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vigilante",
+      "artist": "Magnum",
+      "has_synced": false,
+      "path": "select/06_Vigilante_Magnum.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vigilante - Live Version",
+      "artist": "Magnum",
+      "has_synced": true,
+      "path": "select/07_Vigilante_-_Live_Version_Magnum.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vigilante",
+      "artist": "澤野弘之",
+      "has_synced": true,
+      "path": "select/08_Vigilante_澤野弘之.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vigilante",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/09_Vigilante_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vigilante Man",
+      "artist": "Nazareth",
+      "has_synced": false,
+      "path": "select/10_Vigilante_Man_Nazareth.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Vigilante Man (BBC live track)",
+      "artist": "Nazareth",
+      "has_synced": false,
+      "path": "select/11_Vigilante_Man_(BBC_live_track)_Nazareth.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tokyo Vigilante #1",
+      "artist": "Powerman 5000",
+      "has_synced": true,
+      "path": "select/12_Tokyo_Vigilante__1_Powerman_5000.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vigilante",
+      "artist": "Felony",
+      "has_synced": false,
+      "path": "select/13_Vigilante_Felony.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vigilante",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_01_Vigilante_澤野弘之.txt"
+    }
+  ]
+}
