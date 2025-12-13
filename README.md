@@ -1,0 +1,52 @@
+# 澤野 弘之 – Vigilante
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:31.32] I'll keep looking
+[00:32.14] I'll turn every stone for you
+[00:33.94] Every night I cry in agony for you
+[00:37.75] It's like you call again and again
+[00:40.52] Inside my soul, I hear you calling
+[00:57.52] 
+[00:45.07] Heavy clouds hanging on us
+[00:52.59] But no one is bringing you down
+[01:08.09] 
+[00:58.87] So loud the voice (Loud the in my head)
+[01:02.29] Vigilante might not dead (she might not be dead)
+[01:05.97] Couldn't confess all heart (Confess all my heart)
+[01:10.05] The rainbow it was just the start (It was the start)
+[01:36.05] 
+[01:15.28] Wo oh o oh! Don't you know? (Is there heaven?)
+[01:16.45] Wo oh o oh! Don't you know? (Is there heaven?)
+[01:20.73] Wo oh o oh! Don't you know? (Is there heaven?)
+[01:24.73] Wo oh o oh! Don't you know? (Is there heaven?)
+[01:47.73] 
+[01:37.39] I keep hiding this feeling I have for you
+[01:40.67] I got regrets 'bout what I was meant to do
+[01:43.95] It's like you call again and again
+[01:46.96] Inside my head I'm going crazy
+[02:01.96] 
+[01:51.16] Heavy clouds hanging on us
+[01:58.64] But no one is bringing you down
+[02:14.14] 
+[02:05.31] So loud the voice in head (Loud the in my head)
+[02:09.26] Vigilante might not dead (she might not be dead)
+[02:12.32] Couldn't confess all heart (Confess all my heart)
+[02:16.18] The rainbow it was just the start (It was the start)
+[02:42.18] 
+[02:21.03] Wo oh o oh! Don't you know? (Is there heaven?)
+[02:24.69] Wo oh o oh! Don't you know? (Is there heaven?)
+[02:26.62] Wo oh o oh! Don't you know? (Is there heaven?)
+[02:30.85] Wo oh o oh! Don't you know? (Is there heaven?) Wo oh o oh!
+[02:59.85] 
+[03:01.12] So loud the voice in head (Loud the in my head)
+[03:04.72] Vigilante might not dead (she might not be dead)
+[03:08.27] Couldn't confess all heart (Confess all my heart)
+[03:12.06] The rainbow it was just the start (It was the start)
+[03:38.06] 
+[03:16.96] Wo oh o oh! Don't you know? (Is there heaven?)
+[03:19.41] Wo oh o oh! Don't you know? (Is there heaven?)
+[03:22.58] Wo oh o oh! Don't you know? (Is there heaven?)
+[03:26.52] Wo oh o oh! Don't you know? (Is there heaven?) Wo oh o oh!
+```
